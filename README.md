@@ -1,6 +1,6 @@
 ### Project Summary
 
-This repository aims to develop a framework for analyzing vortex-induced vibrations (VIV) on dam spillway radial gates using computational fluid dynamics (CFD) methods, specifically ANSYS Fluent. The project investigates the complex interactions between fluid flow and structural responses of the gates. Key objectives include:
+This project aims to develop a framework for analyzing vortex-induced vibrations (VIV) on dam spillway radial gates using computational fluid dynamics (CFD) methods, specifically ANSYS Fluent. The project investigates the complex interactions between fluid flow and structural responses of the gates. Key objectives include:
 
 - **Understanding VIV Mechanisms:** Explore the physics behind vortex-induced vibrations on radial gates through extensive literature review and analysis.
   
